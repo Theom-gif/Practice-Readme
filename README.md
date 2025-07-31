@@ -12,4 +12,4 @@
 - [x] Service
 
 ### Screenshot
-![Laptop](laptop-with.png)
+![Laptop](laptop-with.avif)
