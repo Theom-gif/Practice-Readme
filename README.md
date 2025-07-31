@@ -27,3 +27,17 @@ Order List
 1. One
 2. Two
 3. Three
+
+### Text style
+**Blocktext**
+*Love*
+
+~~Hate~~
+
+### Block quote 
+> Hello word
+
+### Table
+|id |name |Age|
+|---|-----|---|
+|01 |02   |03 |
